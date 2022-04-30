@@ -1,4 +1,4 @@
-# Automating-Loan-Prediction
+Loan-Prediction
 Building a web app using streamlit and deploying it to the cloud with Heroku.
 
 # Table of Contents
@@ -60,4 +60,4 @@ In this project we have examined on Automating Loan Prediction Data by performin
 Regression  Model and Random Forest Classifier Model. Considering the Best Accuracy Score building a streamlit page then heroku deploying on cloud platform (Heroku).
 
 # Heroku Webapp Link
-https://hloanprediction.herokuapp.com/
+https://spam-sms-mail.herokuapp.com/
